@@ -8,13 +8,6 @@ Je conçois des applications **full-stack** avec des backends robustes et des fr
 
 ---
 
-### 🛠️ Stack principale
-- **Backend** : Java, Spring Boot, NestJS, REST & GraphQL
-- **Frontend** : React.js (Angular en progression)
-- **DB & Tools** : MySQL, Prisma, Docker, Git & GitHub
-
----
-
 ### 🚀 Ce que je fais
 - Développement d’applications web complètes
 - Conception d’API scalables
