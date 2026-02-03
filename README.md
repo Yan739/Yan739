@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm Yann
 
-<!--
-**Yan739/Yan739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Développeur Full Stack**  
+📍 Belgium  
 
-Here are some ideas to get you started:
+Je conçois des applications **full-stack** avec des backends robustes et des frontends modernes.  
+À l’aise aussi bien côté **API** que **intégration front/back**, je privilégie le code propre, la structure et les bonnes pratiques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack principale
+- **Backend** : Java, Spring Boot, NestJS, REST & GraphQL
+- **Frontend** : React.js (Angular en progression)
+- **DB & Tools** : MySQL, Prisma, Docker, Git & GitHub
+
+---
+
+### 🚀 Ce que je fais
+- Développement d’applications web complètes
+- Conception d’API scalables
+- Intégration frontend / backend
+- Travail en environnement collaboratif (Agile, code review)
+
+---
+
+📫 **Contact**
+- GitHub : [github.com/Yan739](https://github.com/Yan739)
+- LinkedIn : [linkedin.com/in/yann-ngateu](https://www.linkedin.com/in/yann-ngateu)
+
+⭐ *Build. Learn. Improve.*
