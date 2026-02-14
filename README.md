@@ -1,16 +1,18 @@
-## Hi there 👋
+### yann.config &nbsp; <sub> &nbsp; <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="12"/> [github](https://github.com/Yan739) &nbsp; • &nbsp; <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="12"/> [linkedin](https://www.linkedin.com/in/yann-ngateu) &nbsp; • &nbsp; <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="12"/> [email](mailto:ngateuyann8@gmail.com)</sub>
 
-<!--
-**Yan739/Yan739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
+// Architecture & Full Stack Development
+// Primary focus: "Clean Code & Distributed Systems"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+system_identity {
+  user         = "Yann"
+  role         = "Full Stack Developer Student"
+  availability = "Currently in Internship"
+  
+  technologies = {
+    backend  : ["Java/Spring", "NestJS"],
+    frontend : ["React", "Angular"],
+    infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
+    cloud    : ["Azure (AZ-900 Prep)"]
+  } 
+}
