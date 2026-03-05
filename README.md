@@ -13,6 +13,6 @@ system_identity {
     backend  : ["Java/Spring", "NestJS"],
     frontend : ["React", "Angular"],
     infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
-    cloud    : ["Azure (AZ-900 Prep)"]
+    cloud    : ["Azure(AZ-900)"]
   } 
 }
