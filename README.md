@@ -7,7 +7,7 @@
 system_identity {
   user         = "Yann"
   role         = "Full Stack Developer"
-  education    = "BSc Business Computing (2026)"
+  education    = "Bachelor in Business Computing (2026)"
   availability = "Currently in Internship"
 
   technologies = {
