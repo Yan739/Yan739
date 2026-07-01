@@ -1,4 +1,4 @@
-### yann.config &nbsp; <sub>[github](https://github.com/Yan739) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/yann-ngateu) &nbsp; • &nbsp; [email](mailto:ngateuyann8@gmail.com)</sub>
+### yann.config &nbsp; <sub>[portfolio](https://ngateu.vercel.app) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/yann-ngateu) &nbsp; • &nbsp; [email](mailto:ngateuyann8@gmail.com)</sub>
 
 ```rust
 // Architecture & Full Stack Development
