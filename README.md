@@ -6,7 +6,7 @@
 system_identity {
   user         = "Yann"
   role         = "Java / Fullstack Developer"
-  education    = "Bachelor in Computer Science (2026)"
+  education    = "Bachelor in Business IT / Information Systems (2026)"
   availability = "Currently in Internship"
   technologies = {
     backend  : ["Java/Spring", "NestJS"],
