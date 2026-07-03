@@ -5,7 +5,7 @@
 // Primary focus: "Clean Code & Distributed Systems"
 system_identity {
   user         = "Yann"
-  role         = "Full Stack Developer"
+  role         = "Java / Fullstack Developer"
   education    = "Bachelor in Computer Science (2026)"
   availability = "Currently in Internship"
   technologies = {
