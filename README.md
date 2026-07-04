@@ -12,8 +12,8 @@ system_identity {
     backend  : ["Java/Spring", "NestJS"],
     frontend : ["React", "Angular"],
     infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
-    cloud    : ["Azure (AZ-900)"],
-    erp      : ["Odoo (Functional - sample)"]
+    cloud    : ["Azure (AZ-900 - Udemy certif)"],
+    erp      : ["Odoo (Functional - sample)", "Odoo Student Diploma"]
   }
 }
 ```
