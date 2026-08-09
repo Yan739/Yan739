@@ -11,7 +11,7 @@ system_identity {
   technologies = {
     backend  : ["Java/Spring", "NestJS"],
     frontend : ["React", "Angular"],
-    mobile   : ["Java/Kotlin", "Dart/Flutter"],
+    mobile   : ["Java/Kotlin", "Dart/Flutter", "ReactNative"],
     infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
     cloud    : ["Azure (AZ-900 - Udemy certif)"],
     erp      : ["Odoo (Functional - sample)", "Odoo Student Diploma"]
