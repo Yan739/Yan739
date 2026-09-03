@@ -14,6 +14,7 @@ system_identity {
     mobile   : ["Java/Kotlin", "Dart/Flutter", "ReactNative"],
     infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
     cloud    : ["Azure (AZ-900 - Udemy certif)"],
+    network  : ["Cisco CCST Networking (Sept. 2026)"],
     erp      : ["Odoo (Functional - sample)", "Odoo Student Diploma"]
   }
 }
