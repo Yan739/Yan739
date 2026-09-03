@@ -13,7 +13,8 @@ system_identity {
     frontend : ["React", "Angular"],
     mobile   : ["Java/Kotlin", "Dart/Flutter", "ReactNative"],
     infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
-    cloud    : ["Azure (AZ-900 - Udemy certif) ✓ Certified", "Cisco CCST Networking ✓ Certified"],
+    cloud    : ["Azure (AZ-900 - Udemy certif) ✓ Certified"],
+    network  : ["Cisco CCST Networking ✓ Certified"],
     erp      : ["Odoo (Functional - sample) ✓ Certified", "Odoo Student Diploma ✓ Certified"]
   }
 }
