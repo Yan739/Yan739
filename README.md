@@ -1,23 +1,25 @@
-### yann.config &nbsp; [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ngateu.vercel.app) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-ngateu) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngateuyann8@gmail.com)
+### yann.config
 
-```rust
+[![Portfolio](https://img.shields.io/badge/-Portfolio-171512?style=flat-square&logo=vercel&logoColor=F2B705)](https://ngateu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=63B3ED)](https://www.linkedin.com/in/yann-ngateu)
+[![Email](https://img.shields.io/badge/-Email-171512?style=flat-square&logo=gmail&logoColor=E8792B)](mailto:ngateuyann8@gmail.com)
+
+\`\`\`rust
 // Architecture & Full Stack Development
 // Primary focus: "Clean Code & Distributed Systems"
 system_identity {
   user         = "Yann"
   role         = "Java / Fullstack Developer"
-  education    = "Bachelor in Business IT / Information Systems (2026)"
-  availability = "Currently in Internship"
+  education    = "Bachelier en Informatique de Gestion (2026), Master 1 Sciences Informatiques - UMONS"
+  status       = "Ouvert aux opportunités"
   technologies = {
-    backend  : ["Java/Spring", "NestJS"],
-    frontend : ["React", "Angular"],
-    mobile   : ["Java/Kotlin", "Dart/Flutter", "ReactNative"],
-    infra    : ["REST/GraphQL", "PostgreSQL", "Docker"],
-    cloud    : ["Azure (AZ-900 - Udemy certif) ✓ Certified"],
-    network  : ["Cisco CCST Networking ✓ Certified"],
-    erp      : ["Odoo (Functional - sample) ✓ Certified", "Odoo Student Diploma ✓ Certified"]
+    backend  : ["Java / Spring Boot", "NestJS"],
+    frontend : ["Angular", "React"],
+    mobile   : ["Java / Kotlin", "React Native"],
+    infra    : ["REST / GraphQL", "PostgreSQL", "Docker"],
+    certifications: ["Cisco CCST Networking", "AZ-900 (Udemy)", "Odoo Functional Certification"]
   }
 }
-```
+\`\`\`
 
 > Selected work lives in the pinned repositories below.
