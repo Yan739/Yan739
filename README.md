@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="140" valign="top">
+<td width="140" valign="bottom">
 <img src="https://raw.githubusercontent.com/Yan739/Yan739/main/assets/growing-plant-left.svg" width="120" alt="" />
 </td>
 <td valign="top">
@@ -8,7 +8,7 @@
 ### yann.config
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-171512?style=flat-square&logo=vercel&logoColor=F2B705)](https://ngateu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yann-ngateu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/yann-ngateu)
 [![Email](https://img.shields.io/badge/-Email-171512?style=flat-square&logo=gmail&logoColor=E8792B)](mailto:ngateuyann8@gmail.com)
 
 ```rust
@@ -32,7 +32,7 @@ system_identity {
 > Selected work lives in the pinned repositories below.
 
 </td>
-<td width="140" valign="top">
+<td width="140" valign="bottom">
 <img src="https://raw.githubusercontent.com/Yan739/Yan739/main/assets/growing-plant-right.svg" width="120" alt="" />
 </td>
 </tr>
