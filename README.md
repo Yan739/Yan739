@@ -1,3 +1,10 @@
+<table>
+<tr>
+<td width="140" valign="top">
+<img src="https://raw.githubusercontent.com/Yan739/Yan739/main/assets/growing-plant-left.svg" width="120" alt="" />
+</td>
+<td valign="top">
+
 ### yann.config
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-171512?style=flat-square&logo=vercel&logoColor=F2B705)](https://ngateu.vercel.app)
@@ -23,3 +30,10 @@ system_identity {
 ```
 
 > Selected work lives in the pinned repositories below.
+
+</td>
+<td width="140" valign="top">
+<img src="https://raw.githubusercontent.com/Yan739/Yan739/main/assets/growing-plant-right.svg" width="120" alt="" />
+</td>
+</tr>
+</table>
