@@ -10,8 +10,8 @@
 system_identity {
   user         = "Yann"
   role         = "Java / Fullstack Developer"
-  education    = "Bachelier en Informatique de Gestion (2026), Master 1 Sciences Informatiques - UMONS"
-  status       = "Ouvert aux opportunités"
+  education    = "Bachelor in Business IT / Information Systems (2026), M1 Computer Science - UMONS"
+  status       = "Open to opportunities"
   technologies = {
     backend  : ["Java / Spring Boot", "NestJS"],
     frontend : ["Angular", "React"],
