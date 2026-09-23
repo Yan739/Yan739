@@ -24,7 +24,7 @@ system_identity {
     frontend : ["Angular", "React"],
     mobile   : ["Java / Kotlin", "React Native"],
     infra    : ["REST / GraphQL", "PostgreSQL", "Docker"],
-    certifications: ["Cisco CCST Networking", "AZ-900 (Udemy)", "Odoo Functional Certification"]
+    certifications: ["Cisco CCST Networking", "AZ-900 (Udemy)", "Odoo Functional Sample Certification"]
   }
 }
 ```
