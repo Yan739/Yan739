@@ -8,7 +8,7 @@
 ### yann.config
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-171512?style=flat-square&logo=vercel&logoColor=F2B705)](https://ngateu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=63B3ED)](https://www.linkedin.com/in/yann-ngateu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-ngateu)
 [![Email](https://img.shields.io/badge/-Email-171512?style=flat-square&logo=gmail&logoColor=E8792B)](mailto:ngateuyann8@gmail.com)
 
 ```rust
