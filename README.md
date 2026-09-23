@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-171512?style=flat-square&logo=linkedin&logoColor=63B3ED)](https://www.linkedin.com/in/yann-ngateu)
 [![Email](https://img.shields.io/badge/-Email-171512?style=flat-square&logo=gmail&logoColor=E8792B)](mailto:ngateuyann8@gmail.com)
 
-\`\`\`rust
+```rust
 // Architecture & Full Stack Development
 // Primary focus: "Clean Code & Distributed Systems"
 system_identity {
@@ -20,6 +20,6 @@ system_identity {
     certifications: ["Cisco CCST Networking", "AZ-900 (Udemy)", "Odoo Functional Certification"]
   }
 }
-\`\`\`
+```
 
 > Selected work lives in the pinned repositories below.
